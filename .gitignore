@@ -1,0 +1,9 @@
+*.csv
+*.vcf
+/data/numbers.json
+/data/contacts.json
+/node_modules/*
+environment.*
+phoebe.sublime-project
+phoebe.sublime-workspace
+
