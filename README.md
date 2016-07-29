@@ -40,3 +40,11 @@ type the "mocha" command to run the test suite
 Feel free to raise an issue on Github with questions, or fork and raise a Pull Request if you'd like to make changes.
 
 I would especially welcome any help on the mocha testing side!  Would love to stub out the S3 calls and have some real tests in here
+
+
+#Recommended Reading
+
+https://www.twilio.com/blog/2015/09/build-your-own-ivr-with-aws-lambda-amazon-api-gateway-and-twilio.html
+
+http://edwinvelazquez.com/blog/2015/12/15/build_an_aws_endpoint.html
+
