@@ -3,6 +3,9 @@ A cloud-based personal digital assistant using AWS Lambda and Twilio for serverl
 
 This is currently in "Part 1" status where Phoebe will answer the phone, record a voicemail, and send you an SMS with the voicemail.
 
+![Overview Diagram](images/ivr_overview.jpg)
+
+
 Part 2 will be incorporating a DynamoDB contact database and forwarding callers in real-time if they make the cut!
 
 #Installation
